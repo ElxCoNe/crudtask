@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "user",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "password2": "admin",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Milo",
+      "email": "user@gmail.com",
+      "password": "user",
+      "password2": "user",
+      "role": "user"
+    },
+    {
+      "id": 8,
+      "name": "Nuevo",
+      "email": "user1@gmail.com",
+      "password": "user",
+      "password2": "user",
+      "role": "user"
+    }
+  ],
+  "tasks": [
+    {
+      "name": "nuevosasdasd",
+      "category": "History",
+      "priority": "Hard",
+      "status": "Pending",
+      "userId": 8,
+      "id": 1
+    },
+    {
+      "name": "prueba",
+      "category": "sisi",
+      "priority": "Harsssd",
+      "status": "Pending",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "asdasd",
+      "category": "History",
+      "priority": "Medium",
+      "status": "Progress",
+      "userId": 2,
+      "id": 2
+    }
+  ]
+}
